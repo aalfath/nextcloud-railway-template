@@ -12,3 +12,5 @@ First release of the template.
 - Automatic install with PostgreSQL and Redis, an `admin` user and a generated password.
 - HTTPS links and trusted domains for the Railway domain, background jobs by cron
   every 5 minutes, and a `/healthz` check.
+- Optional database indices and mimetype migrations applied right after the install,
+  and an HSTS header, so the admin overview starts without warnings.
