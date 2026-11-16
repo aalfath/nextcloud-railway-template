@@ -1,3 +1,5 @@
+[![Deploy on Railway](https://railway.com/button.svg)](https://railway.com/new/template/nextcloud-1?utm_medium=integration&utm_source=button&utm_campaign=nextcloud)
+
 # Nextcloud on Railway
 
 A one-click Railway template for [Nextcloud](https://nextcloud.com), the self-hosted
